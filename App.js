@@ -39,7 +39,7 @@ const Section = ({children, title}): Node => {
         ]}>
         {title}
       </Text>
-      <Text>PERROS CALIENNTES</Text>
+      <Text>SIN PERROS CALIENNTES</Text>
       <Text
         style={[
           styles.sectionDescription,
